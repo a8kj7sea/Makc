@@ -1,0 +1,7 @@
+import "greet.makc"
+
+func eid_greet {
+
+
+    call t
+}

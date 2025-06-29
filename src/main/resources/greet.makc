@@ -1,0 +1,6 @@
+func t {
+    print "Eid Mubarak\n\n"
+    print "Kol 3am wa entum bikhair,\n"
+    print "As'al Allah yueed 'alaykum hadhih al-ayam al-mubarakah bil-khair wal-yumn wal-barakat.\n"
+    print "Taqabbal Allah ta'atakum wa 'aad 'alaykum al-farah was-salam."
+}

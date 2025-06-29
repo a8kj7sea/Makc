@@ -1,0 +1,8 @@
+
+import "test.makc"
+
+func greet {
+  print "Hey there!"
+}
+
+call eid_greet
